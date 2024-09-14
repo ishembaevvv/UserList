@@ -1,0 +1,19 @@
+.user {
+	list-style: none;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	width: 250px;
+	margin-top: 30px;
+	border-radius: 15px;
+}
+
+.avatar {
+	border-radius: 50%;
+	width: 50px;
+	height: 50px;
+}
+
+.email {
+	color: #acb7a8;
+}
